@@ -4,7 +4,7 @@ This is a description of my project.
 
 1. Create an account on reportlab 
     https://docs.reportlab.com/install/ReportLab_Plus_version_installation/
-2. install it locally.
+2. install it locally in your terminal or cmd.
     pip install rlextra -i https://www.reportlab.com/pypi/
 
 
